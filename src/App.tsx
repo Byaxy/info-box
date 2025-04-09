@@ -2,8 +2,8 @@ import InfoBox from "./components/InfoBox";
 
 function App() {
   return (
-    <div className="min-h-screen w-full bg-gray-100 flex flex-col items-center justify-center p-4">
-      <h1 className="text-3xl font-bold text-blue-600 mb-8">
+    <div className="min-h-screen w-full bg-gray-100 flex flex-col items-center justify-center p-5">
+      <h1 className="text-2xl md:text-3xl font-bold text-blue-600 mb-8 text-center">
         Hello React + Tailwind CSS + Typescript!
       </h1>
 
